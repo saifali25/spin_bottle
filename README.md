@@ -1,6 +1,5 @@
 # spin_bottle
-
-A new Flutter project.
+A simple Flutter Spin Bottle Game.
 
 ## Getting Started
 
